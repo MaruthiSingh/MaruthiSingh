@@ -2,7 +2,6 @@
 - 👀 I’m interested in freelancing and Internship
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on creating websites
-  - Through - https://codedamn.com/referred-by/maruthisingh
 - 📫 How to reach me email at singhkarthik261@gmail.com
 
 <!---
